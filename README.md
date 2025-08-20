@@ -1,14 +1,14 @@
 #MQTT Monitor
 
-Monitor en tiempo real para nodos específicos de SmartBee que se conecta vía WebSocket MQTT y registra los datos de sensores en archivos de log.
+Monitor en tiempo real que se conecta vía WebSocket MQTT y registra los datos en archivos de log.
 
 ## 📋 Descripción
 
-Este proyecto permite monitorear nodos específicos de SmartBee, capturando datos de sensores como temperatura, humedad y peso. Los datos se guardan automáticamente en archivos de texto para su posterior análisis.
+Este proyecto permite monitorear capturando datos. Los datos se guardan automáticamente en archivos de texto para su posterior análisis.
 
 ## 🚀 Características
 
-- ✅ Conexión WebSocket MQTT a SmartBee
+- ✅ Conexión WebSocket MQTT
 - 🎯 Monitoreo de nodos específicos configurables
 - 📊 Captura de datos de sensores (temperatura, humedad, peso)
 - 💾 Guardado automático en archivos de log
