@@ -41,7 +41,7 @@ pip install websocket-client
 2. **Edita el archivo `config.py` con tus credenciales:**
    ```python
    # Configuración de conexión WebSocket
-   WS_URL = "wss://www.smartbee.cl/apps/mqtt.read.rcr"
+   WS_URL = "TU_DIRECCION_URL"
    USERNAME = "TU_USUARIO_AQUI"
    PASSWORD = "TU_PASSWORD_AQUI"
    
