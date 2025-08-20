@@ -1,4 +1,4 @@
-# SmartBee MQTT Monitor
+#MQTT Monitor
 
 Monitor en tiempo real para nodos específicos de SmartBee que se conecta vía WebSocket MQTT y registra los datos de sensores en archivos de log.
 
